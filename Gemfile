@@ -21,7 +21,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
-#gem 'rb-readline'
+gem 'rb-readline'
 gem 'twilio-ruby', '~> 5.21.1'
 gem 'pry', '~> 0.12.2'
 gem 'whenever', require: false
