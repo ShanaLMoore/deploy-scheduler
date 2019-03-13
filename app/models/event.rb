@@ -1,7 +1,7 @@
 class Event < ApplicationRecord
   # ----> ASSOCIATIONS
-  belongs_to :developer
+  #belongs_to :developer
 
-  has_many :notifications
+  #has_many :notifications
 
 end
